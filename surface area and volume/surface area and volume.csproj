@@ -82,5 +82,17 @@
   <ItemGroup>
     <None Include="Resources\sphere.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cube.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cylinder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuboid.jfif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
